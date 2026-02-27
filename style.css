@@ -1,0 +1,60 @@
+body {
+margin: 0;
+padding: 0;
+min-height: 100vh;
+
+background-image: url("PICTURE.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+font-family: Arial, sans-serif;
+}
+
+.main-box {
+background-color: rgba(173, 216, 230, 0.95);
+padding: 30px;
+border-radius: 15px;
+width: 80px%;
+max-height: 90vh;
+overflow-y: auto;
+text-align: center;
+}
+
+.container {
+margin: 15px 0;
+padding: 20px;
+border-radius: 10px;
+color: white;
+
+background-size: cover;
+background-position: center;
+}
+
+.luber {
+background-image: url("luber.jpg");
+}
+
+.tumulak {
+background-image: url("tumulak.jpg");
+}
+
+.carl {
+background-image: url("carl.jpg");
+}
+
+.angeline {
+background-image: url("angeline.jpg");
+}
+
+.helbert {
+background-image: url("helie.jpg");
+}
+
+.hannah{
+background-image: url("hannah.jpg");
+}
